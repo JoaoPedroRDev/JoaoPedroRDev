@@ -1,6 +1,6 @@
 # Olá, me chamo João Pedro 👋
 
-Estou cursando Engenharia de Software focado em desenvolvimento Front-End e na construção de páginas web modernas e responsivas.
+Estou cursando Engenharia de Software, focando em desenvolvimento web e aprimorando meus conhecimentos!
 
 ---
 
