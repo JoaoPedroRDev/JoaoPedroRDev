@@ -1,6 +1,6 @@
-# Olá, eu sou o João Pedro 👋
+# Olá, me chamo João Pedro 👋
 
-Graduando em Engenharia de Software focado em desenvolvimento Front-End e na construção de páginas web modernas e responsivas.
+Estou cursando Engenharia de Software focado em desenvolvimento Front-End e na construção de páginas web modernas e responsivas.
 
 ---
 
