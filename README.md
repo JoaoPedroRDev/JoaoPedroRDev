@@ -28,4 +28,4 @@ um conceito que estudei e quis testar de verdade.
 ### 📫 Como me encontrar
 
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joaopedro-rodrigues-sousa)
-- **E-mail:** [jprodriguesx2@gmail.com](mailto:jprodriguesx2@gmail.com)
+- **E-mail:** [jprodriguesx2@gmail.com]
