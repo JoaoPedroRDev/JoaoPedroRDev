@@ -15,5 +15,5 @@ Estou cursando Engenharia de Software, focando em desenvolvimento web e aprimora
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Meu LinkedIN](https://www.linkedin.com/in/joão-pedro-rodrigues-de-sousa)
+- **LinkedIn:** [Meu LinkedIN](www.linkedin.com/in/joaopedro-rodrigues-sousa)
 - **E-mail:** jprodriguesx2@gmail.com
